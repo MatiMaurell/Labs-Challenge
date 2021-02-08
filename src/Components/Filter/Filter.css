@@ -1,0 +1,11 @@
+.filter {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    margin: 1rem;
+    margin-left: 33vh;
+  }
+  
+  .filter div{
+      flex: 1;
+  }
